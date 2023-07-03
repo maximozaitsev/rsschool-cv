@@ -11,5 +11,5 @@
 #### - Study projects
 ### Education:
 #### BSEU
-### English
+### English:
 #### A2/B1
